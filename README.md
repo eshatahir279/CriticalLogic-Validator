@@ -117,14 +117,6 @@ Interactive web graphical user interface built with Streamlit.
   - Tab 2: Logical Fallacies & Argument Strength grading cards and syllogistic evaluations
   - Tab 3: Actionable Revisions, active transformation samples, and a pre-submission checklist
 
----
-
-### 5. `run_audit.py`
-Command-line interface and inter-process communication bridge.
-
-- **`main() -> None`**
-  Parses command-line arguments (`--text`, `--json`) or reads from standard input (`sys.stdin`), executes text normalization and heuristic analysis, and prints structured JSON to standard output.
-
 
 ## Installation & Environment Setup
 
