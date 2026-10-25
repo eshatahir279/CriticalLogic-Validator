@@ -1,0 +1,4 @@
+# Web GUI framework for app.py
+streamlit>=1.30.0
+
+python-dotenv>=1.0.0
