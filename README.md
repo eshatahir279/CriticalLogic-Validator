@@ -125,7 +125,6 @@ Command-line interface and inter-process communication bridge.
 - **`main() -> None`**
   Parses command-line arguments (`--text`, `--json`) or reads from standard input (`sys.stdin`), executes text normalization and heuristic analysis, and prints structured JSON to standard output.
 
----
 
 ## Installation & Environment Setup
 
